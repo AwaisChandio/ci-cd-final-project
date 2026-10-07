@@ -1,3 +1,5 @@
-# CI/CD Tools and Practices Final Project Tekton Workflows
+# CI/CD Tools and Practices Final Project Template
 
-This directory will contain all the Tekton workflows you create in the CI/CD Tools and Practices Final Project.
+## Project Name: ci-cd-final-project
+
+This repository contains the backend service for managing and tracking counters, automated with GitHub Actions for Continuous Integration (CI) and OpenShift Tekton Pipelines for Continuous Deployment (CD).
